@@ -30,7 +30,7 @@ header > h1 {
     text-align: center;
     width: 200px;
     color: white;
-    font-size: 46;
+    font-size: 55px;
     padding: 15px 20px;
     position: relative;
 }
@@ -44,14 +44,14 @@ header > h1 {
 
 #user-label {
     position: absolute;
-    top: 30;
-    left: -25;
+    top: 30px;
+    left: -25px;
 }
 
 #com-label {
     position: absolute;
-    top: 30;
-    right: -25;
+    top: 30px;
+    right: -25px;
 }
 
 .result {
